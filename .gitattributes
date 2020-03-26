@@ -1,3 +1,4 @@
+*.txt text
 *.yml text
 *.py text
 text eol=lf
